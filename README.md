@@ -1,4 +1,4 @@
 ## View Website
 
-Visit our website [here](http://www.example.com).
+Visit our website [here](http://index.html).
 
